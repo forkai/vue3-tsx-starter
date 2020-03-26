@@ -1,4 +1,4 @@
-# sudoku
+# vue3-tsx-starter
 
 ## Project setup
 ```
